@@ -1,3 +1,6 @@
+## Index
+- <a href="#-Previous Activities">Previous Activities </a>
+
 ![logo-main](https://github.com/user-attachments/assets/fcfb24ac-8cb5-473e-9946-eb6f1e451f28)
 <h1>Learning Materials and Activities</h1>
 Through providing a set of learning materials, Plazi (https://plazi.org/)  intends to enable users to release data, inspire the development of enhanced new tools, and build a collaborative community. The Plazi-community is organized on Github and is open for contribution. Plazi offers a set of certificate granting online open modular courses, as well as workshops and training courses online and presential to scientific community around the world. 
