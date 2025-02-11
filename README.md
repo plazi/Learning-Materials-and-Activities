@@ -1,7 +1,15 @@
-## Index
-- [Previous Activities](#Previous-Activities)
-
 ![logo-main](https://github.com/user-attachments/assets/fcfb24ac-8cb5-473e-9946-eb6f1e451f28)
+# Index
+- [Learning Materials and Activities](#Learning-Materials-and-Activities)
+- [Audience](#Audience)
+- [Previous Activities](#Previous-Activities)
+- [Online Courses](#Online-Courses)
+- [Module – Plazi Presentation](#Module–Plazi-Presentation)
+- [Module – Individual Extraction](#Module–Individual-Extraction)
+- [Module – Quality Control](#Module–Quality-Control)
+- [Module – Queries and Reuse](#Module–Queries-and-Reuse)
+- [Module – Matching Service](#Module–Matching-Service)
+
 <h1>Learning Materials and Activities</h1>
 Through providing a set of learning materials, Plazi (https://plazi.org/)  intends to enable users to release data, inspire the development of enhanced new tools, and build a collaborative community. The Plazi-community is organized on Github and is open for contribution. Plazi offers a set of certificate granting online open modular courses, as well as workshops and training courses online and presential to scientific community around the world. 
 <h2>Learning Modules</h2>
@@ -14,7 +22,8 @@ Scientific community, citizen scientists
 ![primeira](https://github.com/user-attachments/assets/80b00c3d-82d7-4e9a-8b56-692cd0246635)
 ![segunda](https://github.com/user-attachments/assets/8b7af4e2-2d94-4337-ab44-0082ce08025a)
 
-#<h2>Previous Activities<h2>
+<h2>Previous Activities</h2>
+  
 27-28 February: Mobilise COST Action - "Biodiversity and Digital Media:linling material citations in publications to specimes". (https://plazi.org/posts/2023/03/specimen-material-citation-matching-service-training-course/)
 
 ![terceira](https://github.com/user-attachments/assets/9823fdce-b162-4300-ba47-2098b1b68d07)
@@ -48,7 +57,7 @@ Scientific community, citizen scientists
 * Online Courses
 * Talks and Presentations
 
-<h2>Module – Plazi Presentation</h2>
+<h1>Module – Plazi Presentation</h1>
 
 **Description**: In this module we briefly present where we come from and where we can go, Plazi's workflow and main taxonomic repositories.
  
