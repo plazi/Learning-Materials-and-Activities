@@ -4,11 +4,11 @@
 - [Audience](#Audience)
 - [Previous Activities](#Previous-Activities)
 - [Online Courses](#Online-Courses)
-- [Plazi Presentation](#Module-Plazi-Presentation)
-- [Individual Extraction](#Module-Individual-Extraction)
-- [Quality Control](#Module-Quality-Control)
-- [Queries and Reuse](#Module-Queries-and-Reuse)
-- [Matching Service](#Module-Matching-Service)
+  - [Plazi Presentation](#Module-Plazi-Presentation)
+  - [Individual Extraction](#Module-Individual-Extraction)
+  - [Quality Control](#Module-Quality-Control)
+  - [Queries and Reuse](#Module-Queries-and-Reuse)
+  - [Matching Service](#Module-Matching-Service)
 
 <h1>Learning Materials and Activities</h1>
 Through providing a set of learning materials, Plazi (https://plazi.org/)  intends to enable users to release data, inspire the development of enhanced new tools, and build a collaborative community. The Plazi-community is organized on Github and is open for contribution. Plazi offers a set of certificate granting online open modular courses, as well as workshops and training courses online and presential to scientific community around the world. 
