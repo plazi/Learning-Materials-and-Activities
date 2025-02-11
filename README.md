@@ -57,7 +57,7 @@ Scientific community, citizen scientists
 * Online Courses
 * Talks and Presentations
 
-<h1>Module – Plazi Presentation</h1>
+<h2>Module – Plazi Presentation</h2>
 
 **Description**: In this module we briefly present where we come from and where we can go, Plazi's workflow and main taxonomic repositories.
  
