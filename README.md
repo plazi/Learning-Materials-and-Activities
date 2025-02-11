@@ -1,5 +1,5 @@
 ## Index
-- <a href="#-Previous Activities">Previous Activities </a>
+- [Previous Activities](#Previous-Activities)
 
 ![logo-main](https://github.com/user-attachments/assets/fcfb24ac-8cb5-473e-9946-eb6f1e451f28)
 <h1>Learning Materials and Activities</h1>
@@ -14,7 +14,7 @@ Scientific community, citizen scientists
 ![primeira](https://github.com/user-attachments/assets/80b00c3d-82d7-4e9a-8b56-692cd0246635)
 ![segunda](https://github.com/user-attachments/assets/8b7af4e2-2d94-4337-ab44-0082ce08025a)
 
-<h2>Previous Activities</h2>
+#<h2>Previous Activities<h2>
 27-28 February: Mobilise COST Action - "Biodiversity and Digital Media:linling material citations in publications to specimes". (https://plazi.org/posts/2023/03/specimen-material-citation-matching-service-training-course/)
 
 ![terceira](https://github.com/user-attachments/assets/9823fdce-b162-4300-ba47-2098b1b68d07)
