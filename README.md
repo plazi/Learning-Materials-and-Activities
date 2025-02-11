@@ -17,16 +17,19 @@ Learning material includes presentations of Plazi’s goals and workflow, as wel
 <h2>Certificates</h2>
 The courses provide certification after the module’s assignments conclusion. After the completion of the modules “Individual Extraction” and “Quality Control” (hyperlinks to the modules) the participant can obtain login and password to extract and liberate data using GGI and Plazi's platforms as new certificates. The data liberations are approved by the Plazi team, and the new certificates receive feedback concerning data quality by email until fully qualified.
 <h1>Audience</h1>
+
 Scientific community, citizen scientists
 
-![primeira](https://github.com/user-attachments/assets/80b00c3d-82d7-4e9a-8b56-692cd0246635)
-![segunda](https://github.com/user-attachments/assets/8b7af4e2-2d94-4337-ab44-0082ce08025a)
+
+<img src="https://github.com/user-attachments/assets/80b00c3d-82d7-4e9a-8b56-692cd0246635" alt="Logo do GitHub" width="50%" />
+
+<img src="https://github.com/user-attachments/assets/8b7af4e2-2d94-4337-ab44-0082ce08025a" alt="Logo do GitHub" width="50%" />
 
 <h1>Previous Activities</h1>
   
 27-28 February: Mobilise COST Action - "Biodiversity and Digital Media:linling material citations in publications to specimes". (https://plazi.org/posts/2023/03/specimen-material-citation-matching-service-training-course/)
 
-![terceira](https://github.com/user-attachments/assets/9823fdce-b162-4300-ba47-2098b1b68d07)
+<img src="https://github.com/user-attachments/assets/9823fdce-b162-4300-ba47-2098b1b68d07" alt="Logo do GitHub" width="50%" />
 
 03-06 April: UFRGS - "Taxonomia Integrada aos Meios Digitais: como facilitar o acesso e a reutilização de dados taxonômicos pela comunidade científica".
 
@@ -34,7 +37,7 @@ Scientific community, citizen scientists
 
 18-21 April: SANBI "The Taxonomy Integrated to Digital Media - how to facilitate the acces and reuse of taxonomic data by the scientific community". (https://plazi.org/posts/2023/05/training-s-african-scientists/)
 
-![participants](https://github.com/user-attachments/assets/d922a4d9-1b2d-45b0-99af-120e1da27b71)
+<img src="https://github.com/user-attachments/assets/d922a4d9-1b2d-45b0-99af-120e1da27b71" alt="Logo do GitHub" width="50%" />
 
 <h1>Online Courses</h1>
 
