@@ -16,13 +16,13 @@ Through providing a set of learning materials, Plazi (https://plazi.org/)  inten
 Learning material includes presentations of Plazi’s goals and workflow, as well as concepts that are the base of data liberation process. Tools to annotate publications and work on data extraction are presented along with guides, tutorials, and screencasts. The use of platforms for queries and data reuse is introduced through explanations and tutorials.
 <h2>Certificates</h2>
 The courses provide certification after the module’s assignments conclusion. After the completion of the modules “Individual Extraction” and “Quality Control” (hyperlinks to the modules) the participant can obtain login and password to extract and liberate data using GGI and Plazi's platforms as new certificates. The data liberations are approved by the Plazi team, and the new certificates receive feedback concerning data quality by email until fully qualified.
-<h2>Audience</h2>
+<h1>Audience</h1>
 Scientific community, citizen scientists
 
 ![primeira](https://github.com/user-attachments/assets/80b00c3d-82d7-4e9a-8b56-692cd0246635)
 ![segunda](https://github.com/user-attachments/assets/8b7af4e2-2d94-4337-ab44-0082ce08025a)
 
-<h2>Previous Activities</h2>
+<h1>Previous Activities</h1>
   
 27-28 February: Mobilise COST Action - "Biodiversity and Digital Media:linling material citations in publications to specimes". (https://plazi.org/posts/2023/03/specimen-material-citation-matching-service-training-course/)
 
@@ -36,7 +36,7 @@ Scientific community, citizen scientists
 
 ![participants](https://github.com/user-attachments/assets/d922a4d9-1b2d-45b0-99af-120e1da27b71)
 
-<h2>Online Courses</h2>
+<h1>Online Courses</h1>
 
 * MOBILISE COST Action 2023
 * Escola Superior de Conservação Ambiental e Sustentabilidade – ESCAS
