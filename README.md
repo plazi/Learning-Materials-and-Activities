@@ -57,7 +57,7 @@ Scientific community, citizen scientists
 * Online Courses
 * Talks and Presentations
 
-<h2>Module – Plazi Presentation</h2>
+<h2>Module-Plazi Presentation</h2>
 
 **Description**: In this module we briefly present where we come from and where we can go, Plazi's workflow and main taxonomic repositories.
  
@@ -71,7 +71,7 @@ Scientific community, citizen scientists
 
 Join module with Google Classroom (https://classroom.google.com/), using the class code **bqzqmzk**.
 
-<h2>Module – Individual Extraction</h2>
+<h2>Module-Individual Extraction</h2>
 
 **Description**: In this module you will get to know the computer program used to extract data for scholarly publications: the GoldenGate Imagine - GGI. You will also get used to the concepts used in the Plazi workflow and concepts that must be understood in order to use the GGI data extraction program. Moreover, you will experience a complete data extraction from a published paper.
 
@@ -85,7 +85,7 @@ Join module with Google Classroom (https://classroom.google.com/), using the cla
 
 Join module with Google Classroom (https://classroom.google.com/), using the class code **aafo2py**.
 
-<h2>Module – Quality Control</h2>
+<h2>Module-Quality Control</h2>
 
 **Description**: In this module you will get to finish the process of data liberation after an individual or automatic extraction of data from scholarly publications according to Plazi's workflow. This is an important and mandatory step of data liberation. The quality control process detect and correct the extraction errors preventing wrong information to reach the repositories
 
@@ -99,7 +99,7 @@ Join module with Google Classroom (https://classroom.google.com/), using the cla
 
 Join module with Google Classroom (https://classroom.google.com/), using the class code **vj6tqd5**.
 
-<h2>Module – Queries and Reuse</h2>
+<h2>Module-Queries and Reuse</h2>
 
 **Description**: In this module you will get to know the different data repositories and experience the use of Plazi's Treatment Bank for queries and searches.
 
@@ -111,7 +111,7 @@ Join module with Google Classroom (https://classroom.google.com/), using the cla
 
 Join module with Google Classroom (https://classroom.google.com/), using the class code **xqzqsgn**.
 
-<h2>Module – Matching Service</h2>
+<h2>Module-Matching Service</h2>
 
 **Description**: The Matching Service is designed for users to participate of the liberation of scholarly knowledge about biodiversity, allowing them to match the material citations contained in the academic literature to the respective specimens in natural history collections. 
 
